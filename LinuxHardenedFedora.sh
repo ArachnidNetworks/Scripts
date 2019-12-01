@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# SecBuddy Linux Hardened Kernel Install Script: Fedora Linux
+# Linux Hardened Kernel Install Script: Fedora Linux
 
 
 printf "Linux Hardened Kernel Installation: Fedora Linux"
