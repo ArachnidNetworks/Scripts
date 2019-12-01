@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# SecBuddy Linux Hardened Kernel Install Script: Debian Linux
+# Linux Hardened Kernel Install Script: Debian Linux
 
 printf "Linux Hardened Kernel Installation: Debian Linux"
 printf "WARNING! Installing a new kernel can break compatibility with software. A backup is recommended before proceeding!"
