@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# SecBuddy Linux Hardened Kernel Install Script: Arch Linux
+# Linux Hardened Kernel Install Script: Arch Linux
 
 printf "Linux Hardened Kernel Installation: Arch Linux"
 printf "WARNING! Installing a new kernel can break compatibility with software. A backup is recommended before proceeding!"
